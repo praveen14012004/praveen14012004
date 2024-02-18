@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineer (Full-Stack Developer) 3rd Year Graduate Student from PPU. I have 1 year of experience in React, Redux, Node, Express, MongoDB, and React-Native with proficiency in web technologies like HTML5, CSS3, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces.<br><br>✨ Well-versed with AGILE Methodology, Version control system (GIT), Defect Tracking tool (Jira), design platform (Figma), and Testing frameworks such as Jest. <br><br>✨ Languages: React, Typescript, NodeJS, JavaScript, Java & Sprint Boot <br><br>✨ Web technology: HTML5, CSS3, SASS<br><br>✨ Bootsrap4, Material UI<br><br>✨ Databases: SQL, MongoDB<br><br>✨ Testing: Jest <br><br>✨Other Tools: GitHub
+I am a Software Engineer (Full-Stack Developer) 3rd Year Graduate Student from PPU. I have 1 year of experience in React, Redux, Node, Express, MongoDB, and React-Native with proficiency in web technologies like HTML5, CSS3, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user interfaces.
 
 
 ## 🌐 Socials:
