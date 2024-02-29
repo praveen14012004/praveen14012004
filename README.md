@@ -2,7 +2,7 @@
 I am a Software Engineer (Full-Stack Developer) 3rd Year Graduate Student from PPU. I have 1 year of experience in React, Redux, Node, Express, MongoDB, and React-Native with proficiency in web technologies like HTML5, CSS3, and JavaScript, building large-scale web applications, cross-browser platforms, and design constraints on the web, and building responsive user  interfaces.   
 
   
-## 🌐 Socials:
+## 🌐 Socials:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/devpraveen14/) 
 
 # 💻 Tech Stack:
